@@ -3,6 +3,7 @@ alter table FifaData.dbo.FIFA2021DATA
 add TempCol Nvarchar(255);
 
 
+
 -- Reversing the string and counting manually counting from the number of strings before the name 
 -- Which is where the substring will start extracting from
 -- Updating the created column with the substring data
